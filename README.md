@@ -21,5 +21,5 @@ This is a simple ESP8266-01 project that measures the temperature every 30 minut
 
 #Images
 
-![pic1].(/pics/pic1.jpg)
-![pic2].(/pics/pic2.jpg)
+![pic1](/pics/pic1.jpg)
+![pic2](/pics/pic2.jpg)
