@@ -3,6 +3,7 @@
 #About
 
 This is a simple ESP8266-01 project that measures the temperature every 30 minutes (can be easily adjusted from the code) and sends to a web server using POST requests.
+To enable access to WWW add DNS to the code
 
 #Hardware requirements
 
